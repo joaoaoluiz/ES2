@@ -1,0 +1,50 @@
+#0:00 - 3:30
+Modelos de processo de software e atividades de software
+
+-Métodos ágeis
+#3:31 - 5:56
+Software = programas e documentação.
+Qualidade de software = funcionalidade, desempenho, confiável, fácil manutenção e usabilidade.
+
+#5:57 - 6:19
+EG: estudo de todas os aspectos da produção de software 
+= especificação, desenvolvimento, validação e evolução
+
+#6:20 - 8:46
+EG != Ciência da Computação.
+EG = prática.
+Desáfio = rápidez e confiabilidade
+60% desenvolvendo e 40% testando
+
+#8:47 - 10:34
+Processo de software = todas as atividade relacionadas que levem à produção de um produto de software
+
+#10:35 - 15:59
+- Cascata
+- Incremental
+- Orientado ao reúso
+
+#15:60 - 17:04
+- especificação
+- desenvolvimento
+- validação
+- evolução
+#17:05 - 18:15
+- Estudo de viabilidade(primeira conversa)
+- Coleta
+- Especificação(documento formal)
+- Projeto
+
+#18:16 - 19:44
+- Entradas de Projeto
+- Atividades de Projeto
+- Saídas de projeto
+
+#19:45 - 20:53
+- Teste de componente
+- Teste de sistema
+- Teste com cliente
+
+- Casos de teste
+#20:54 - 22:42
+-Propor mudanças e corrigir erros
